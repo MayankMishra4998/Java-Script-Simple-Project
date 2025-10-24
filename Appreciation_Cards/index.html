@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Staff Appreciation Cards</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Staff Appreciation Cards</h1>
+            <p class="subtitle">Create personalized thank you messages for your team members</p>
+            
+            <div class="input-section">
+                <input id="b1_input" type="text" placeholder="Enter staff member's name">
+                <button id="b1_button" class="btn">
+                    <i class="fas fa-plus-circle"></i> Create Card
+                </button>
+                <button id="b1_delete" class="btn">
+                    <i class="fas fa-trash-alt"></i> Delete All
+                </button>
+            </div>
+            <div class="counter" id="card-counter">0 cards created</div>
+        </header>
+        
+        <div id="box2" class="cards-container">
+            <div class="empty-state" id="empty-state">
+                <i class="fas fa-gift"></i>
+                <h3>No appreciation cards yet</h3>
+                <p>Add a staff member's name to create your first card</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
