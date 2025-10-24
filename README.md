@@ -11,5 +11,4 @@ A beginner-friendly JavaScript project that demonstrates basic DOM manipulation,
 - Clean and responsive layout
 - Easy to understand code structure
 
-## 📁 Project Structure
 
