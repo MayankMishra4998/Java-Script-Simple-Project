@@ -40,6 +40,24 @@ A simple, interactive Expense Tracker built with vanilla JavaScript, HTML, and C
 🛠️ Tech Stack
 HTML5 , CSS3 , JavaScript (DOM manipulation, array methods)
 
+## Project 3 :- ✊✋✌️ Rock Paper Scissors – JavaScript Mini Project
+A fun and interactive Rock Paper Scissors game built with vanilla JavaScript, HTML, and CSS. This beginner-friendly project demonstrates core concepts like DOM manipulation, event handling, and dynamic UI updates.
+
+🎮 Features
+🧠 Simple game logic with randomized computer moves
+
+👆 Clickable buttons for user input
+
+📊 Real-time score tracking
+
+🎨 Clean and responsive design with smooth transitions
+
+🔁 Instant replay option for continuous gameplay
+
+🛠️ Tech Stack
+HTML5
+
+CSS3 (flexbox, transitions)
 
 
 
