@@ -57,7 +57,7 @@ A fun and interactive Rock Paper Scissors game built with vanilla JavaScript, HT
 🛠️ Tech Stack
 HTML5 , CSS3 , JavaScript
 
-CSS3 (flexbox, transitions)
+
 
 
 
