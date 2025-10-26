@@ -55,9 +55,10 @@ A fun and interactive Rock Paper Scissors game built with vanilla JavaScript, HT
 🔁 Instant replay option for continuous gameplay
 
 🛠️ Tech Stack
-HTML5
+HTML5 , CSS3 , JavaScript
 
 CSS3 (flexbox, transitions)
+
 
 
 
