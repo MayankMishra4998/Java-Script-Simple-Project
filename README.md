@@ -65,4 +65,5 @@ A beginner-friendly Unit Converter project that allows users to convert values b
 📱 Responsive design for mobile and desktop  
 
 🛠️ Tech Stack  
-HTML5 , CSS3 , JavaScript (DOM manipulation, mathematical formulas)  
+HTML5 , CSS3 , JavaScript
+
