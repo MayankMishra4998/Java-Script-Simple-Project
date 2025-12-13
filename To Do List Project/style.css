@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background-color: #161515;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: white;
+}
+
+.container {
+    cursor: pointer;
+    width: 100%;
+    max-width: 420px;
+    background: rgba(30, 30, 40, 0.65);
+    backdrop-filter: blur(14px);
+    padding: 28px;
+    border-radius: 22px;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.container:hover {
+    box-shadow: 0px 3px 30px rgb(63, 73, 112);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+h2 {
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-shadow: 0 0 10px #ff3ae6;
+}
+
+.inputBox {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 16px;
+}
+
+input {
+    flex: 1;
+    padding: 12px;
+    border-radius: 12px;
+    border: none;
+    outline: none;
+    background: #2d2d39;
+    color: white;
+    font-size: 15px;
+}
+
+button {
+    padding: 12px 18px;
+    border: none;
+    border-radius: 12px;
+    background: #a020f0;
+    color: white;
+    cursor: pointer;
+    transition: 0.25s;
+}
+
+button:hover {
+    background: #7a06c4;
+}
+
+#clearAll {
+    background: #ff2f60;
+}
+
+#clearAll:hover {
+    background: #cc1845;
+}
+
+.taskHeader {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    background: #2a2a33;
+    padding: 14px;
+    border-radius: 14px;
+    margin-bottom: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    animation: pop 0.25s ease;
+    border-left: 4px solid #a020f0;
+}
+
+@keyframes pop {
+    from {
+        transform: scale(0.9);
+        opacity: 0;
+    }
+
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+.taskDone {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+
+.deleteBtn {
+    padding: 6px 10px;
+    background: #ff2558;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: 0.25s;
+}
+
+.deleteBtn:hover {
+    background: #d20e3e;
+}
