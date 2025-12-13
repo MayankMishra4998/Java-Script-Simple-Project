@@ -75,8 +75,5 @@ A To-Do List is a simple yet powerful productivity tool that helps users organiz
 
 🗑️ Delete Tasks: Remove tasks easily to keep the list clean.
 
-🔄 Persistent Storage: Save tasks using local storage so they remain after refreshing the page.
-
-🎨 Responsive Design: Works seamlessly across desktop and mobile devices.
-
 ⚡ Interactive UI: Smooth transitions and clean layout for a pleasant user experience.
+
