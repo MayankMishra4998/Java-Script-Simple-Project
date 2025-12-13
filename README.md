@@ -68,3 +68,15 @@ A beginner-friendly Unit Converter project that allows users to convert values b
 HTML5 , CSS3 , JavaScript
 
 ## Project 5 :- To Do List
+A To-Do List is a simple yet powerful productivity tool that helps users organize tasks, set priorities, and track progress. Built with HTML, CSS, and JavaScript, this project demonstrates core web development concepts like DOM manipulation, event handling, and dynamic UI updates.
+
+✨ Features
+➕ Add Tasks: Users can quickly add new tasks with a single click.
+
+🗑️ Delete Tasks: Remove tasks easily to keep the list clean.
+
+🔄 Persistent Storage: Save tasks using local storage so they remain after refreshing the page.
+
+🎨 Responsive Design: Works seamlessly across desktop and mobile devices.
+
+⚡ Interactive UI: Smooth transitions and clean layout for a pleasant user experience.
