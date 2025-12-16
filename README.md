@@ -77,3 +77,14 @@ A To-Do List is a simple yet powerful productivity tool that helps users organiz
 
 ⚡ Interactive UI: Smooth transitions and clean layout for a pleasant user experience.
 
+# Project 5 :- 🎨 Color Picker
+
+✨ Features
+Interactive color selection using a native color picker.
+
+Displays the chosen color code (Hex format).
+
+Applies the selected color to a preview box instantly.
+
+Simple and beginner‑friendly implementation.
+
