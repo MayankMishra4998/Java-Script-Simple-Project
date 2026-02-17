@@ -88,3 +88,4 @@ Applies the selected color to a preview box instantly.
 
 Simple and beginner‑friendly implementation.
 
+
