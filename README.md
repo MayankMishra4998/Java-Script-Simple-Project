@@ -89,3 +89,7 @@ Applies the selected color to a preview box instantly.
 Simple and beginner‑friendly implementation.
 
 
+# Project 6 - Calculater 
+a calculater made by Html , css ,js 
+
+
