@@ -23,6 +23,7 @@ A delightful JavaScript mini-project that lets users create and display personal
 🛠️ Tech Stack  
 HTML5 , CSS3 , JavaScript  
 
+
 ---
 
 ## Project 2 :- 🧾 Expense Tracker
